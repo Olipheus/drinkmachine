@@ -4,7 +4,7 @@ from EmulatorGUI import GPIO
 import threading
 import tkinter
 
-#won't have to wright timeit.Timer every time
+#won't have to write timeit.Timer every time
 from threading import Timer
 
 #clean all pinout settings
